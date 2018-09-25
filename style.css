@@ -1,0 +1,53 @@
+.top h1{
+  background-color: #c9af8f ;
+  color: #354d69;
+  text-align: center;
+  font-size: 50px;
+  position: relative;
+  top: 50px;
+  width: 200px;
+  font-family: Calibri Light;
+  margin: 0 auto;
+}
+body{
+  background-color:#354d69;
+}
+#main{
+  position:static;
+  border:3px solid #c9af8f;
+  margin:100px auto 100px auto;
+  width: 800px;
+  height: 400px;
+
+}
+#main .content h3{
+  color: #c9af8f;
+  margin-left:30px;
+  font-size: 20px;
+
+}
+#main .content p{
+  color: #c9af8f;
+  margin-left:30px;
+  font-size: 20px;
+}
+#main .content hr{
+  width:750px ;
+  color: #c9af8f;
+}
+#main a{
+
+  color: #c9af8f;
+  
+}
+.picture{
+  position: relative;
+  text-align:  right;
+  margin-right: 50px;
+  display: inline-block;
+  bottom:100px;
+  left:500px
+ 
+}
+
+
